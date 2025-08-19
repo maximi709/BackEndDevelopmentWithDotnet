@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "Ry/56zwryKv3vPNtxlVPR/quT7Rup/V6ZZ26gGg19co=",
+  "Source": "TechHive.UserManagement.Api",
+  "BasePath": "_content/TechHive.UserManagement.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

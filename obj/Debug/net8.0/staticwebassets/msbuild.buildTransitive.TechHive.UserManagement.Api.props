@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\TechHive.UserManagement.Api.props" />
+</Project>
